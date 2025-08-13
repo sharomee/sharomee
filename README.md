@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=sharomee)
 [![codewars](https://www.codewars.com/users/sharomee/badges/large)](https://www.codewars.com/users/sharomee)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharomee)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharomee)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharomee)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharomee)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharomee)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=sharomee)](https://github.com/ryo-ma/github-profile-trophy)-->
