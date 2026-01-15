@@ -7,15 +7,14 @@ I'm from Chelyabinsk, Russia, studying system administration and developing in G
 
 - **Go**: CLI applications, automation scripts, web services.
 
-- **Portfolio**: <in development>.
-
+- **Portfolio**: <in development>
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
 ## 🚀 Future Projects
-- [Python Pet Project]([repo link](https://github.com/sharomee/pet-project)) - Humble pet projects while learning Python.
+- [Python Pet Project](https://github.com/sharomee/pet-project) - Humble pet projects while learning Python.
 
 - [Go System Administration Tool](https://github.com/sharomee/Go-System-Administration-Tool) - Coming soon: Server Health Check.
 
