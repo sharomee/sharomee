@@ -15,9 +15,9 @@ I'm from Chelyabinsk, Russia, studying system administration and developing in G
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
 ## 🚀 Future Projects
-- [Python Pet Project](repo link) - Humble pet projects while learning Python.
+- [Python Pet Project]([repo link](https://github.com/sharomee/pet-project)) - Humble pet projects while learning Python.
 
-- [Go System Administration Tool](repository link) - Coming soon: Server Health Check.
+- [Go System Administration Tool](https://github.com/sharomee/Go-System-Administration-Tool) - Coming soon: Server Health Check.
 
 ## 📫 Contact
 - 📧 Email: straw.hat.vladimir@yandex.ru
